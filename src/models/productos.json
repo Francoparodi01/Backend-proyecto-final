@@ -1,0 +1,171 @@
+[
+  {
+    "id": "1f0b1443-546b-4ea3-aa49-05d1c64f40fd",
+    "title": "Tarjeta gráfica GTX 3080",
+    "description": "Potente tarjeta gráfica para juegos de última generación.",
+    "price": 799.99,
+    "code": "TG3080",
+    "stock": 50,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_1"
+  },
+  {
+    "id": "6a1a6eef-1892-4b21-85ac-0a6c7464b37b",
+    "title": "Nuevo título",
+    "description": "Nueva descripción",
+    "price": 19.99,
+    "code": "NUEVO_CODE",
+    "stock": 50,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_7",
+    "thumbnail": "nuevasdasdasdaaaa_imagen.jpg"
+  },
+  {
+    "id": "8826f9e4-d5a8-45ce-86cb-9b050f99c551",
+    "title": "Monitor gaming Acer Predator X34",
+    "description": "Monitor ultrawide con tasa de refresco de 144Hz para una experiencia inmersiva.",
+    "price": 899.99,
+    "code": "MONACERX34",
+    "stock": 10,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_9"
+  },
+  {
+    "id": "77cf178d-7b3e-4e50-ae8e-3b26870ebf3d",
+    "title": "Teclado mecánico Corsair K95 RGB Platinum XT",
+    "description": "Teclado mecánico de alta calidad con retroiluminación RGB personalizable.",
+    "price": 179.99,
+    "code": "TCORK95XT",
+    "stock": 25,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_11"
+  },
+  {
+    "id": "2cbb4a9a-d094-4be0-9d16-2d36b75f6778",
+    "title": "Ratón inalámbrico Logitech G Pro X Superlight",
+    "description": "Ratón gaming ultraligero con tecnología inalámbrica avanzada.",
+    "price": 149.99,
+    "code": "RLOGGPROX",
+    "stock": 18,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_13"
+  },
+  {
+    "id": "e13f5311-3bd8-4f6c-9d65-eb97ff2f5f58",
+    "title": "Auriculares gaming HyperX Cloud II",
+    "description": "Auriculares con sonido envolvente y micrófono desmontable.",
+    "price": 99.99,
+    "code": "HGKINGSTCLOUDII",
+    "stock": 22,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_15"
+  },
+  {
+    "id": "0c41aa75-ba2e-4a15-a4d3-d90e5f0eaa42",
+    "title": "Cámara web Logitech C920 HD Pro",
+    "description": "Cámara web de alta definición para transmisiones y videoconferencias.",
+    "price": 79.99,
+    "code": "CWLOGC920",
+    "stock": 15,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_17"
+  },
+  {
+    "id": "7b49f18d-038b-4ed0-9b13-61c1d3a73ec5",
+    "title": "Fuente de poder EVGA SuperNOVA 850 G5",
+    "description": "Fuente de poder modular de alta eficiencia para sistemas de alto rendimiento.",
+    "price": 149.99,
+    "code": "FPEVGASUP850",
+    "stock": 12,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_19"
+  },
+  {
+    "id": "1499b641-47b3-462d-9d9d-c04fe6ab2158",
+    "title": "Impresora láser HP LaserJet Pro M404dn",
+    "description": "Impresora láser monocromática rápida y eficiente para entornos de oficina.",
+    "price": 229.99,
+    "code": "ILHPM404DN",
+    "stock": 15,
+    "status": true,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_23"
+  },
+  {
+    "id": "53c93745-015f-4af4-970c-e90704a562ef",
+    "title": "Impresora láser HP LaserJet Pro M404dn",
+    "description": "Impresora láser monocromática rápida y eficiente para entornos de oficina.",
+    "price": 229.99,
+    "code": "ILHPM404DN",
+    "stock": 15,
+    "status": true,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_23"
+  },
+  {
+    "id": "900eb975-3827-4eb3-89de-676a5f13a69d",
+    "title": "Disco Duro Externo Seagate Backup Plus 4TB",
+    "description": "Almacenamiento externo de 4TB con conectividad USB 3.0 para realizar copias de seguridad de forma rápida y sencilla.",
+    "price": 119.99,
+    "code": "HDDSEA4TB",
+    "stock": 20,
+    "status": true,
+    "category": "Hardware",
+    "thumbnails": []
+  },
+  {
+    "id": "03019143-51e7-421f-97c8-7b655f8a2915",
+    "title": "Disco Duro Externo Seagate Backup Plus 4TB",
+    "description": "Almacenamiento externo de 4TB con conectividad USB 3.0 para realizar copias de seguridad de forma rápida y sencilla.",
+    "price": 119.99,
+    "code": "HDDSEA4TB",
+    "stock": 20,
+    "status": true,
+    "category": "Hardware",
+    "thumbnails": "url_imagen_21"
+  },
+  {
+    "id": "e8785d86-8be3-4617-9312-eaf2ee68158f",
+    "title": "Disco Duro Externo Seagate Backup Plus 4TB",
+    "description": "Almacenamiento externo de 4TB con conectividad USB 3.0 para realizar copias de seguridad de forma rápida y sencilla.",
+    "price": 119.99,
+    "code": "HDDSEA4TB",
+    "stock": 20,
+    "status": true,
+    "category": "Hardware",
+    "thumbnails": []
+  },
+  {
+    "id": "93a6ad8e-f628-4ce7-8d6b-2e6ff56a5719",
+    "title": "Disco Duro Externo Seagate Backup Plus 4TB",
+    "description": "Almacenamiento externo de 4TB con conectividad USB 3.0 para realizar copias de seguridad de forma rápida y sencilla.",
+    "price": 119.99,
+    "code": "HDDSEA4TB",
+    "stock": 20,
+    "status": true,
+    "category": "Hardware",
+    "thumbnails": []
+  },
+  {
+    "id": "e23b4edc-da08-4cb7-a15f-a9456261439c",
+    "title": "Disco Duro Externo Seagate Backup Plus 4TB",
+    "description": "Almacenamiento externo de 4TB con conectividad USB 3.0 para realizar copias de seguridad de forma rápida y sencilla.",
+    "price": 119.99,
+    "code": "HDDSEA4TB",
+    "stock": 20,
+    "status": true,
+    "category": "Hardware",
+    "thumbnails": []
+  },
+  {
+    "id": "8192a5fd-6974-444d-8845-6b2e5f037648",
+    "title": "Disco Duro Externo Seagate Backup Plus 4TB",
+    "description": "Almacenamiento externo de 4TB con conectividad USB 3.0 para realizar copias de seguridad de forma rápida y sencilla.",
+    "price": 119.99,
+    "code": "HDDSEA4TB",
+    "stock": 20,
+    "status": true,
+    "category": "Hardware",
+    "thumbnails": []
+  }
+]

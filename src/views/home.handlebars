@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Productos</title>
+</head>
+<body>
+    <h1>Lista de Productos</h1>
+        <div class="contenedorCards">
+                {{#each products}}
+                    <div class="card">
+                        <p> {{this.title}} </p>
+                        <p>  {{this.price}} </p>
+                        <div class="img-container">
+                            <img src={{this.thumbnail}} alt={{this.title}} class="product-img">
+                        </div>
+                    </div>
+                {{/each}}
+        </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="../public/js/index.js"></script>
+</body>
+</html>

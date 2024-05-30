@@ -1,0 +1,19 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    margin: 10px;
+    padding: 10px;
+    min-width: 200px;
+}
+.product-img{
+    width: 250px;
+    height: 250px;
+}
+.contenedorCards{
+    display: flex;
+    flex-direction: row;
+}
+.img-container{
+    display: flex;
+    
+} 
